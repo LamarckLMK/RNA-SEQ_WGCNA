@@ -1,6 +1,1 @@
-# WGCNA
-A concise pipeline about WGCNA when doingRNA-Seq downstream analysis
-
-**Needed Input files**
-- gene_count_WGCNA.txt
-- sample_info.csv
+该程序构建了一个简明的WGCNA pipeline，用于WGCNA的逐步分析以及可视化
