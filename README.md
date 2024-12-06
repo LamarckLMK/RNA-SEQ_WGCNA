@@ -1,1 +1,1 @@
-该程序构建了一个简明的WGCNA pipeline，用于WGCNA的逐步分析以及可视化
+A concise pipeline about WGCNA when doing some RNA-Seq downstream analysis
